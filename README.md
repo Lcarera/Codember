@@ -15,7 +15,7 @@ Resolución de retos y pistas de los secretos que encontré del juego [codember]
 | Challenge |                                   Solución                                   |
 | :-------: | :--------------------------------------------------------------------------: |
 |    #01    | [PY](2023/challenge1.py) |
-|    #012    | [PY](2023/challenge2.py) |
+|    #02    | [PY](2023/challenge2.py) |
 
 ## Tabla de secretos
 
